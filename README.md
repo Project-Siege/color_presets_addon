@@ -59,4 +59,4 @@ This addon is licensed under the [MIT License](LICENSE).
 
 This addon was developed by Nomadic_Jester.
 
-#b16286 Purple
+
