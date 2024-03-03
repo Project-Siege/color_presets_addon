@@ -39,6 +39,13 @@ The Color Presets Add-on is a Blender addon that allows users to add custom colo
 2. Under the `Load Presets from File` section, click the `Select File` button to choose a file containing color presets.
 3. Click the `Load Presets` button to load the presets from the selected file.
 
+**Example of a Color Presets File (colors.txt):**
+#282828 Dark Grey
+#cc241d Red
+#98971a Green
+#d79921 Yellow
+#458588 Deep Blue
+
 ### Deleting Presets
 
 - To delete an individual preset, click the `X` button next to the preset in the `Color Presets` list.
@@ -51,3 +58,5 @@ This addon is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 This addon was developed by Nomadic_Jester.
+
+#b16286 Purple
