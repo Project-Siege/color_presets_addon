@@ -7,6 +7,8 @@ The Color Presets Add-on is a Blender addon that allows users to add custom colo
 - Add custom color presets.
 - Update object materials with a single click.
 - Customizable color presets.
+- Load color presets from a file.
+- Delete individual presets or all presets at once.
 
 ## Installation
 
@@ -30,6 +32,17 @@ The Color Presets Add-on is a Blender addon that allows users to add custom colo
 1. Right-click on the object you want to update.
 2. Select `Color Presets` from the context menu.
 3. Choose a preset from the list to update the material color.
+
+### Loading Presets from a File
+
+1. Open the `Color Presets` panel in the `Properties` editor.
+2. Under the `Load Presets from File` section, click the `Select File` button to choose a file containing color presets.
+3. Click the `Load Presets` button to load the presets from the selected file.
+
+### Deleting Presets
+
+- To delete an individual preset, click the `X` button next to the preset in the `Color Presets` list.
+- To delete all presets at once, click the `Delete All Presets` button in the `Color Presets` panel.
 
 ## License
 
